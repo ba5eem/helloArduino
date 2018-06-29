@@ -12,9 +12,7 @@
 
 * Setup
 
-```js
-Follow setup guide [here](https://learn.adafruit.com/adafruit-feather-m0-basic-proto/setup).
-```
+- Follow setup guide [here](https://learn.adafruit.com/adafruit-feather-m0-basic-proto/setup).
 
 * Sketches:
 
