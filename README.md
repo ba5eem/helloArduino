@@ -4,15 +4,13 @@
 
 ## Getting Started:
 
+- Follow setup guide [here](https://learn.adafruit.com/adafruit-feather-m0-basic-proto/setup).
+
 * Hardware:
 
 ```js
 - Arduino Feather m0 || Feather m0 express
 ```
-
-* Setup
-
-- Follow setup guide [here](https://learn.adafruit.com/adafruit-feather-m0-basic-proto/setup).
 
 * Sketches:
 
