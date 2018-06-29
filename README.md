@@ -18,5 +18,9 @@
 - sketch_clear.ino : Clear everything off the Feather m0
 ```
 ```js
-- sketch_hellow.ino : Simple i/o using Screen Monitor to send number from 1-10 for different output
+- sketch_hello.ino : Simple i/o using Screen Monitor to send number from 1-10 for different output
+```
+
+```js
+- sketch_poi.ino : On open print POI with lat/lng coords, providing mock data for testing
 ```
